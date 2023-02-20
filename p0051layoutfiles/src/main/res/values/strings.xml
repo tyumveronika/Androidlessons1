@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LayoutFiles</string>
+    <string name="TextView">Hello World!</string>
+</resources>
